@@ -6,6 +6,7 @@ define([
         mini.GameScene.apply( this, arguments );
     };
 
+
     GameScene.prototype = Object.create( mini.GameScene.prototype ,{
 
         _onPrepare: { value: function(){
