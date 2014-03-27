@@ -1,4 +1,1 @@
-minigames
-=========
-
-minigames
+糞ゲイムアプリ開発部
